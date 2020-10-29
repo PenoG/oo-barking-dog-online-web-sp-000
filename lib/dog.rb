@@ -6,7 +6,9 @@ class Dog
   def name
     @this_dogs_name
   end
+  
+  def bark
 end
 
 fido = Dog.new
-fido.name = "fido"
+fido.name = "Fido"
